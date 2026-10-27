@@ -12,14 +12,19 @@
 - 2D & 3D
 - C#
 - Cross-platform deployment
+- https://unity.com/
+
 ### 2. Unreal Engine
 - 3D
 - C++ & Blueprints
 - Real-time rendering
+- https://www.unrealengine.com/
+
 ### 3. Godot Engine
 - 2D & 3D
 - GDScript, C3, C++
 - Lightweight, open-source
+- https://godotengine.org/
 
 ### Chosen one: Unity
 - Robust multiplayer networking packages and its block-based rendering make it ideal for multiplayer mini game prototypes
